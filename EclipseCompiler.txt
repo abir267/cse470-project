@@ -1,0 +1,272 @@
+3 Dec 2020 14:44:28 GMT: Log 'EclipseCompiler.txt' opened: 3 Dec 2020 14:44:28 GMT with name C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EclipseCompiler.txt
+3 Dec 2020 14:45:56 GMT: diagnostics = javax.tools.DiagnosticCollector@c7f9d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@118305b
+fileObjects = [C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\About.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\AddBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\AddMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Books.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Borrow.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\BorrowBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Center.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ChangePassword.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateButton.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DeleteLibrarian.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EditBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EditMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListAvailbleBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListBorrowedBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListIssuedBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListSearchBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListSearchMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\LoginScreen.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Main.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Members.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Menubar.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Password.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\RemoveBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\RemoveMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ResultSetTableModel.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ReturnBooks.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SignUp.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Splash.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\StatusBar.java, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Toolbar.java]
+3 Dec 2020 14:45:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@980ce' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src;F:\SOFT\drjava-beta-20160913-225446.exe]
+3 Dec 2020 14:46:03 GMT: Compiler call returned
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@189c495
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 130 ColNo = 12 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2c89e
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 130 ColNo = 12 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a617d9
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 129 ColNo = 12 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28ce70
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ResultSetTableModel.java LineNo = 43 ColNo = 9 Msg = 'java.lang.Class is a raw type. References to generic type java.lang.Class<T> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6df18
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\About.java LineNo = 19 ColNo = 14 Msg = 'The serializable class About does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d355be
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\AddBooks.java LineNo = 27 ColNo = 14 Msg = 'The serializable class AddBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f79ac2
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\AddBooks.java LineNo = 19 ColNo = 8 Msg = 'The import java.awt.event.KeyListener is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1928002
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\AddMembers.java LineNo = 25 ColNo = 14 Msg = 'The serializable class AddMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a6937
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Borrow.java LineNo = 16 ColNo = 8 Msg = 'The import javax.swing.JOptionPane is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ddb8c3
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\BorrowBooks.java LineNo = 26 ColNo = 14 Msg = 'The serializable class BorrowBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13f0250
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\BorrowBooks.java LineNo = 19 ColNo = 8 Msg = 'The import java.text.SimpleDateFormat is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@780965
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\BorrowBooks.java LineNo = 21 ColNo = 8 Msg = 'The import java.util.Locale is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cff88c
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ChangePassword.java LineNo = 27 ColNo = 14 Msg = 'The serializable class ChangePassword does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b74076
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ChangePassword.java LineNo = 19 ColNo = 8 Msg = 'The import java.awt.event.KeyAdapter is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fe052
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ChangePassword.java LineNo = 20 ColNo = 8 Msg = 'The import java.awt.event.KeyEvent is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44eb53
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ChangePassword.java LineNo = 22 ColNo = 8 Msg = 'The import java.util.Date is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12c6a0f
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateButton.java LineNo = 17 ColNo = 14 Msg = 'The serializable class DateButton does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d30ac
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 59 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c56b05
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 60 ColNo = 13 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e161d
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 68 ColNo = 26 Msg = 'The serializable class FocusablePanel does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@807e8d
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 19 ColNo = 14 Msg = 'The serializable class DateChooser does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@185e2a1
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 83 ColNo = 21 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b23397
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 83 ColNo = 17 Msg = 'Type safety: The constructor javax.swing.JComboBox(java.lang.Object[]) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1280942
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 86 ColNo = 20 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9797c
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 88 ColNo = 13 Msg = 'Type safety: The method addItem(java.lang.Object) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3d0528
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 199 ColNo = 9 Msg = 'The method hide() from the type java.awt.Dialog is deprecated'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53acb3
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 297 ColNo = 9 Msg = 'The method show() from the type java.awt.Dialog is deprecated'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e4d362
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\DateChooser.java LineNo = 17 ColNo = 8 Msg = 'The import javax.swing.table is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2d66bb
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EditBooks.java LineNo = 26 ColNo = 14 Msg = 'The serializable class EditBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b53693
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EditBooks.java LineNo = 21 ColNo = 8 Msg = 'The import java.awt.event.KeyListener is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a24c2
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EditMembers.java LineNo = 27 ColNo = 14 Msg = 'The serializable class EditMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@929f84
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 20 ColNo = 14 Msg = 'The serializable class JLibrary does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eb2493
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 34 ColNo = 24 Msg = 'The value of the field JLibrary.splitPane is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c59a93
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 36 ColNo = 25 Msg = 'The value of the field JLibrary.desktopScrollPane is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@37a6bd
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 37 ColNo = 25 Msg = 'The value of the field JLibrary.treeScrollPane is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@257e80
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 56 ColNo = 29 Msg = 'The value of the field JLibrary.deleteUser is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a0b2b
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\JLibrary.java LineNo = 62 ColNo = 19 Msg = 'The value of the local variable screenSize is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a1043d
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListAvailbleBooks.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListAvailbleBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@156451a
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListBooks.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@98f98e
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListBorrowedBooks.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListBorrowedBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cfd965
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListIssuedBooks.java LineNo = 24 ColNo = 14 Msg = 'The serializable class ListIssuedBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29a3ad
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListMembers.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e52e7
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListSearchBooks.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListSearchBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69900f
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ListSearchMembers.java LineNo = 25 ColNo = 14 Msg = 'The serializable class ListSearchMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a37216
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\LoginScreen.java LineNo = 31 ColNo = 14 Msg = 'The serializable class LoginScreen does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c8324
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Menubar.java LineNo = 18 ColNo = 14 Msg = 'The serializable class Menubar does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e81d88
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Menubar.java LineNo = 16 ColNo = 8 Msg = 'The import javax.management.JMException is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f100f2
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 38 ColNo = 10 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1abf3b8
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 22 ColNo = 14 Msg = 'The serializable class PrintingBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@334a8a
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 131 ColNo = 3 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@930d59
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 131 ColNo = 18 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f961a9
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 142 ColNo = 5 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed7d3d
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 159 ColNo = 6 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e01df0
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBooks.java LineNo = 165 ColNo = 4 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d53170
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 40 ColNo = 10 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122e56a
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 24 ColNo = 14 Msg = 'The serializable class PrintingBorrow does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a77d26
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 131 ColNo = 3 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28f69f
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 131 ColNo = 18 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@193109b
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 142 ColNo = 5 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c2b936
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 159 ColNo = 6 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79a425
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingBorrow.java LineNo = 165 ColNo = 4 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec367b
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 40 ColNo = 10 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c8e8d5
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 24 ColNo = 14 Msg = 'The serializable class PrintingMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25ed73
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 130 ColNo = 3 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b6229e
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 130 ColNo = 18 Msg = 'java.util.Vector is a raw type. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@187913d
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 141 ColNo = 5 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@725058
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 158 ColNo = 6 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c96bd0
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\PrintingMembers.java LineNo = 164 ColNo = 4 Msg = 'Type safety: The method add(java.lang.Object) belongs to the raw type java.util.Vector. References to generic type java.util.Vector<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cb05a5
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\RemoveBooks.java LineNo = 23 ColNo = 14 Msg = 'The serializable class RemoveBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8678d8
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\RemoveMembers.java LineNo = 23 ColNo = 14 Msg = 'The serializable class RemoveMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e01a40
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ResultSetTableModel.java LineNo = 43 ColNo = 9 Msg = 'Type safety: The return type java.lang.Class for getColumnClass(int) from the type ResultSetTableModel needs unchecked conversion to conform to java.lang.Class<?> from the type javax.swing.table.AbstractTableModel'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd76e7
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ResultSetTableModel.java LineNo = 23 ColNo = 14 Msg = 'The serializable class ResultSetTableModel does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@122bab6
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ReturnBooks.java LineNo = 29 ColNo = 14 Msg = 'The serializable class ReturnBooks does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@434432
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ReturnBooks.java LineNo = 19 ColNo = 8 Msg = 'The import java.awt.event.KeyListener is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f56ea0
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\ReturnBooks.java LineNo = 24 ColNo = 8 Msg = 'The import java.util.GregorianCalendar is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da4857
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 48 ColNo = 10 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10fad10
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 68 ColNo = 10 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1610757
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 25 ColNo = 14 Msg = 'The serializable class SearchBooksAndMembers does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8f4b5
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 156 ColNo = 47 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1558609
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 156 ColNo = 43 Msg = 'Type safety: The constructor javax.swing.JComboBox(java.lang.Object[]) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aad49e
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 183 ColNo = 51 Msg = 'javax.swing.JComboBox is a raw type. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103bc3
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SearchBooksAndMembers.java LineNo = 183 ColNo = 47 Msg = 'Type safety: The constructor javax.swing.JComboBox(java.lang.Object[]) belongs to the raw type javax.swing.JComboBox. References to generic type javax.swing.JComboBox<E> should be parameterized'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17a0da8
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SignUp.java LineNo = 41 ColNo = 14 Msg = 'The serializable class SignUp does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@76b300
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SignUp.java LineNo = 20 ColNo = 8 Msg = 'The import java.sql.ResultSet is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17381f4
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SignUp.java LineNo = 23 ColNo = 8 Msg = 'The import javax.swing.ImageIcon is never used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80753a
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\SignUp.java LineNo = 117 ColNo = 16 Msg = 'The value of the local variable confirmPassword is not used'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec314f
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\StatusBar.java LineNo = 23 ColNo = 14 Msg = 'The serializable class StatusBar does not declare a static final serialVersionUID field of type long'
+3 Dec 2020 14:46:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@757d01
+3 Dec 2020 14:46:03 GMT:  Kind = WARNING
+3 Dec 2020 14:46:03 GMT: Name = C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\Toolbar.java LineNo = 16 ColNo = 14 Msg = 'The serializable class Toolbar does not declare a static final serialVersionUID field of type long'
+13 Dec 2020 18:57:49 GMT: Log 'EclipseCompiler.txt' opened: 13 Dec 2020 18:57:49 GMT with name C:\Users\PC\Downloads\Library-Management-System-in-Java-master\Library-Management-System-in-Java-master\src\EclipseCompiler.txt
+13 Dec 2020 21:43:34 GMT: Log 'EclipseCompiler.txt' opened: 13 Dec 2020 21:43:34 GMT with name C:\Users\PC\Downloads\main\Library-Management-System-in-Java-master\src\EclipseCompiler.txt
