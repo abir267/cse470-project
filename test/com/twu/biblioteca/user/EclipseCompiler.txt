@@ -1,0 +1,39 @@
+28 Dec 2020 20:16:43 GMT: Log 'EclipseCompiler.txt' opened: 28 Dec 2020 20:16:43 GMT with name C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\EclipseCompiler.txt
+28 Dec 2020 20:17:11 GMT: diagnostics = javax.tools.DiagnosticCollector@d574e0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@143a6d4
+fileObjects = [C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java]
+28 Dec 2020 20:17:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@41976e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test;F:\SOFT\drjava-beta-20160913-225446.exe]
+28 Dec 2020 20:17:11 GMT: Compiler call returned
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28cfd1
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 7 ColNo = 15 Msg = 'The import org.mockito cannot be resolved'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2aa19c
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 8 ColNo = 15 Msg = 'The import org.mockito cannot be resolved'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a4b10f
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 12 ColNo = 13 Msg = 'UserProfile cannot be resolved to a type'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d76f7c
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 16 ColNo = 9 Msg = 'UserProfile cannot be resolved to a type'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eef4a3
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 16 ColNo = 27 Msg = 'UserProfile cannot be resolved to a type'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@958dc3
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 21 ColNo = 39 Msg = 'The method mock(java.lang.Class<java.io.PrintStream>) is undefined for the type com.twu.biblioteca.user.UserProfileTest'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14c7d17
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 22 ColNo = 9 Msg = 'UserProfile cannot be resolved to a type'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ca554d
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 23 ColNo = 9 Msg = 'The method verify(java.io.PrintStream) is undefined for the type com.twu.biblioteca.user.UserProfileTest'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@103fcfb
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 24 ColNo = 9 Msg = 'The method verify(java.io.PrintStream) is undefined for the type com.twu.biblioteca.user.UserProfileTest'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fc8c0d
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 25 ColNo = 9 Msg = 'The method verify(java.io.PrintStream) is undefined for the type com.twu.biblioteca.user.UserProfileTest'
+28 Dec 2020 20:17:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@166f3e0
+28 Dec 2020 20:17:11 GMT:  Kind = ERROR
+28 Dec 2020 20:17:11 GMT: Name = C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\user\UserProfileTest.java LineNo = 26 ColNo = 9 Msg = 'The method verify(java.io.PrintStream) is undefined for the type com.twu.biblioteca.user.UserProfileTest'

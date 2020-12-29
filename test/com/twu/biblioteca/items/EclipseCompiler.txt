@@ -1,0 +1,1 @@
+28 Dec 2020 20:18:02 GMT: Log 'EclipseCompiler.txt' opened: 28 Dec 2020 20:18:02 GMT with name C:\Users\PC\Downloads\ABir2\twu-biblioteca-giamir-master\test\com\twu\biblioteca\items\EclipseCompiler.txt
